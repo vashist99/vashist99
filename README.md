@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any C++ projects.
 - 📫 How to reach me: vashistgh99@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I sing, play guitar and read historical non-fiction.
+- ⚡ Fun fact: I sing, play guitar and read biographies and historical non-fiction.
