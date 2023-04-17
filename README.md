@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Compilers.
-- 🌱 I’m currently learning C++, Compilers, Data Structures and Algorithms.
+- 🔭 I’m currently working on Macchine Learning.
+- 🌱 I’m currently learning Machine Learning, Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on any C++ projects.
 - 📫 How to reach me: vashistgh99@gmail.com
 - 😄 Pronouns: He/Him.
